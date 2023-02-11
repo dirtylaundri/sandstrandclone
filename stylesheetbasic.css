@@ -2,6 +2,10 @@ div.pfeil {
 position: fixed;
 bottom: 5px;
 right: 5px; }
+div.pfeilr {
+position: fixed;
+bottom: 5px;
+left: 5px; }
 div.qbild {
 position: fixed;
 top: 50%;
