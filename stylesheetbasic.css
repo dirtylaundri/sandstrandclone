@@ -12,7 +12,8 @@ top: 50%;
 left: 50%;
 transform: translate(-50%,  -50%);}
 div.quotes {
-width: 90%;
-height: 2em;
-display: table-cell;
-vertical-align: middle;
+position: fixed;
+width: 100%;
+top: 50%;
+left: 50%;
+transform: translate(-50%,  -50%);}
